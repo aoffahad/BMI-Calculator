@@ -6,6 +6,8 @@ A new Flutter project.<br>
 
 <img src ="https://github.com/aoffahad/BMI-Calculator/blob/main/output/Screenshot_1658984416.png" alt="Output"/>
 
+Details: <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6958279107793088513" height="664" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
