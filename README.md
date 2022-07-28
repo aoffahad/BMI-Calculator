@@ -1,6 +1,10 @@
 # bmi_calculator
 
-A new Flutter project.
+A new Flutter project.<br>
+
+<img src ="https://github.com/aoffahad/BMI-Calculator/blob/main/output/Screenshot_1658984438.png" alt="Output"/>
+
+<img src ="https://github.com/aoffahad/BMI-Calculator/blob/main/output/Screenshot_1658984416.png" alt="Output"/>
 
 ## Getting Started
 
